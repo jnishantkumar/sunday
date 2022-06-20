@@ -1,0 +1,311 @@
+EInvoice.BuyerDtls.Stcd : State code '20' passed  does not match with the buyer GSTIN state code '06AAPCA8720K1ZB' . Please correct the details.	
+
+
+20961-H
+
+ARC-04106
+
+Use Case Card
+Intra-State Purchase of Goods from Registered Vendor when Input Tax Credit is Available Through Purchase Invoice/Order/Quote
+
+
+210010605190570
+IND2223
+
+1787
+
+SO/2223/00001738
+
+
+120013505828200|120012305012800|120012804004821|120012905204800
+
+WSIL2223/000004
+
+CNHRW01222300010
+
+Wsake
+
+WSIL2223/000094 
+WTRJW01222300005
+
+1954
+
+18/04/22
+21/04/22
+
+Indian Naval Canteen
+
+WSIL7185
+
+
+PI/2223/0000009 (Sandbox)
+
+WSIL71840
+
+SO/2223/00001160  --24
+
+SO/2223/00001491 -- 8
+
+SO/2223/00001732 -8
+
+210011618589900
+
+SO/2223/00001454 - 40
+
+
+4402201|4402202|4402203|4402204
+
+A-26/4, 2nd Floor, Mohan Cooperative Ind. Estate
+New Delhi-110044
+
+
+ARC-00001
+
+Posting Date	Document Type	External Document No.	Document No.	Customer No.	Customer Name	Description	Segment Code	State Code	Currency Code	Original Amount	Amount	Certificate No.	TDS Certificate Rcpt Date	TDS Certificate Amount	TDS Certificate Receivable	TDS Certificate Received	TDS Section Code	Certificate Received	Amount (LCY)	Remaining Amount	Remaining Amt. (LCY)	Sales (LCY)	Due Date	Customer Posting Group	Sell-to Customer No.	Warranty Type	Warranty No.	Ship to City	Ship To Code	Payment Terms	DCH	Pmt. Discount Date	Pmt. Disc. Tolerance Date	Original Pmt. Disc. Possible	Remaining Pmt. Disc. Possible	Max. Payment Tolerance	Payment Method Code	Open	On Hold	Entry No.	Exported to Payment File	Message to Recipient	Recipient Bank Account	Department Code	Employee Code	Yes Code	Zone Code	To check Code	Location code Code	GST Group Code	HSN/SAC Code	GST on Advance Payment	GST Without Payment of Duty	GST Customer Type	Seller State Code	Seller GST Reg. No.	Location Code	GST Jurisdiction Type	Location State Code	Location GST Reg. No.
+4/26/2022	 	25-4-22IMPS/22781428 BY USE/A. K. I	BR/APR2223/01649	LU	A K Industrial Enterprises	A K Industrial Enterprises				-192,000.00	-192,000.00			0.00	No	No		No	-192,000.00	-192,000.00	-192,000.00	0.00	4/26/2022	DEALER	LU	 					No			0.00	0.00	0.00		Yes		254367	No											No	No	Registered			HO	Interstate	DL	07AAACS8418H1ZA
+
+39
+Blanket Order
+
+
+As per your request for temporary device access, an OTP has been generated and shared with you. 
+To access the device, use the given OTP before it expires. You can access the device for the specified period only. 
+The details of the OTP and access time are as follows:
+
+Endpoint Name: SIL-PANKAJMAHAJ
+IP Address: 172.20.10.4
+OTP: 8E23B5GO4R
+OTP generation time (GMT): 27 Apr 2022 [13:42:50]
+OTP expiry time from generated time: 60 Minutes
+Duration for which device access is allowed from OTP input time: 120 Minutes
+
+Do the following to enter the OTP:
+1. Right click the Seqrite icon on notification tray. Click Allow Temporary Device Access.
+2. Enter the OTP, mentioned above.
+3. Click OK.
+
+
+SINV/2223/03210
+
+
+
+"Tax Document GL Posting"(CodeUnit 20341).UpdateUseCasePostingBuffer line 27 - Tax Engine by Microsoft
+"Tax Document GL Posting"(CodeUnit 20341).UpdateTaxPostingBuffer line 23 - Tax Engine by Microsoft
+"Gen. Jnl.-Post Handler"(CodeUnit 20334).OnBeforeCode line 27 - Tax Engine by Microsoft
+"Gen. Jnl.-Post Line"(CodeUnit 12).OnBeforeCode(Event) line 2 - Base Application by Microsoft
+"Gen. Jnl.-Post Line"(CodeUnit 12).Code line 7 - Base Application by Microsoft
+"Gen. Jnl.-Post Line"(CodeUnit 12).RunWithCheck line 7 - Base Application by Microsoft
+"Tax Document GL Posting"(CodeUnit 20341).PostTaxJournal line 44 - Tax Engine by Microsoft
+"Tax Document GL Posting"(CodeUnit 20341).OnAfterRunWithoutCheck line 6 - Tax Engine by Microsoft
+"Gen. Jnl.-Post Line"(CodeUnit 12).OnAfterRunWithoutCheck(Event) line 2 - Base Application by Microsoft
+"Gen. Jnl.-Post Line"(CodeUnit 12).RunWithoutCheck line 8 - Base Application by Microsoft
+"Gen. Jnl.-Post Batch"(CodeUnit 13).PostGenJournalLine line 22 - Base Application by Microsoft
+"Gen. Jnl.-Post Batch"(CodeUnit 13).ProcessLines line 77 - Base Application by Microsoft
+"Gen. Jnl.-Post Batch"(CodeUnit 13).Code line 38 - Base Application by Microsoft
+"Gen. Jnl.-Post Batch"(CodeUnit 13).OnRun(Trigger) line 9 - Base Application by Microsoft
+"Gen. Jnl.-Post"(CodeUnit 231).Code line 67 - Base Application by Microsoft
+"Gen. Jnl.-Post"(CodeUnit 231).OnRun(Trigger) line 5 - Base Application by Microsoft
+"Gen. Jnl.-Post"(CodeUnit 231).OnRunPreview line 8 - Base Application by Microsoft
+"Gen. Jnl.-Post Preview"(CodeUnit 19).OnRunPreview(Event) line 2 - Base Application by Microsoft
+"Gen. Jnl.-Post Preview"(CodeUnit 19).RunPreview line 4 - Base Application by Microsoft
+"Gen. Jnl.-Post Preview"(CodeUnit 19).PreviewStart line 17 - Base Application by Microsoft
+"Gen. Jnl.-Post Preview"(CodeUnit 19).Preview line 3 - Base Application by Microsoft
+"Gen. Jnl.-Post"(CodeUnit 231).Preview line 6 - Base Application by Microsoft
+"Journal Voucher"(Page 18557)."Preview - OnAction"(Trigger) line 4 - India Tax Base by Microsoft
+
+
+SO/2223/00006384
+
+SO/2223/00006403 - 30
+
+SO/2223/00006404 -100
+
+GST-12%
+Location State Code : BR
+	From State : TS
+WSIL63821
+TIORW01222300094
+
+COC-CS|GOA-CS|MLR-CS|JAY-CS|
+
+
+50021|BOKLW01222300009
+
+TNRGD06
+RSC-00004
+
+TIHRW01222300971
+
+TIBRW01222300259
+
+Feedback Type:
+Frown (Error)
+
+Timestamp:
+2022-05-30T06:54:59.7052596Z
+
+Local Time:
+2022-05-30T12:24:59.7052596+05:30
+
+Session ID:
+3718382f-c8cc-4971-abbb-f0af70ec94fa
+
+Release:
+March 2022
+
+Product Version:
+2.103.881.0 (22.03) (x64)
+
+OS Version:
+Microsoft Windows NT 10.0.22000.0 (x64 en-GB)
+
+CLR Version:
+4.7 or later [Release Number = 528449]
+
+Peak Virtual Memory:
+55 GB
+
+Private Memory:
+0.999 GB
+
+Peak Working Set:
+1 GB
+
+IE Version:
+11.1.22000.0
+
+User ID:
+cefc9aed-f946-44cb-bba4-8a801250a460
+
+Workbook Package Info:
+1* - en-IN, Query Groups: 0, fastCombine: Disabled, runBackgroundAnalysis: False.
+
+Telemetry Enabled:
+True
+
+Snapshot Trace Logs:
+C:\Users\hp\AppData\Local\Microsoft\Power BI Desktop\FrownSnapShotbf887483-3a4d-4d62-a76c-fdb1be6f2c34.zip
+
+Model Default Mode:
+Import
+
+Model Version:
+PowerBI_V3
+
+Performance Trace Logs:
+C:\Users\hp\AppData\Local\Microsoft\Power BI Desktop\PerformanceTraces.zip
+
+Enabled Preview Features:
+PBI_enableWebView2
+PBI_mobileAuthoringFormattingUI
+PBI_useModernFormatPane
+PBI_sparklines
+
+Disabled Preview Features:
+PBI_shapeMapVisualEnabled
+PBI_SpanishLinguisticsEnabled
+PBI_qnaLiveConnect
+PBI_azureMapVisual
+PBI_dataPointLassoSelect
+PBI_compositeModelsOverAS
+PBI_dynamicParameters
+PBI_enhancedTooltips
+PQ_WebView2Connector
+PBI_scorecardVisual
+PBI_lineChartError
+
+Disabled DirectQuery Options:
+TreatHanaAsRelationalSource
+
+Cloud:
+GlobalCloud
+
+DPI Scale:
+150%
+
+Supported Services:
+Power BI
+
+Formulas:
+
+
+section Section1;
+
+shared DD = let
+    Source = Dynamics365BusinessCentral.ApiContentsWithOptions(null, null, null, null),
+    PRODUCTION = Source{[Name="PRODUCTION"]}[Data],
+    #"My Company" = PRODUCTION{[Name="My Company"]}[Data],
+    WebServices = #"My Company"{[Name="WebServices"]}[Data],
+    DD_table = WebServices{[Name="DD",Signature="table"]}[Data]
+in
+    DD_table;
+
+shared CustomerLedgerEntries = let
+    Source = Dynamics365BusinessCentral.ApiContentsWithOptions(null, null, null, null),
+    PRODUCTION = Source{[Name="PRODUCTION"]}[Data],
+    #"My Company" = PRODUCTION{[Name="My Company"]}[Data],
+    WebServices = #"My Company"{[Name="WebServices"]}[Data],
+    CustomerLedgerEntries_table = WebServices{[Name="CustomerLedgerEntries",Signature="table"]}[Data]
+in
+    CustomerLedgerEntries_table;
+
+shared CustomerLedgerEntry = let
+    Source = Table.NestedJoin(CustomerLedgerEntries, {"Customer_No"}, DD, {"No"}, "DD", JoinKind.LeftOuter),
+    #"Expanded DD" = Table.ExpandTableColumn(Source, "DD", {"Table_ID", "No", "Dimension_Code", "Dimension_Value_Code"}, {"DD.Table_ID", "DD.No", "DD.Dimension_Code", "DD.Dimension_Value_Code"}),
+    #"Filtered Rows" = Table.SelectRows(#"Expanded DD", each ([DD.Dimension_Code] = "ZONE")),
+    #"Added Custom" = Table.AddColumn(#"Filtered Rows", "Days", each [Posting_Date]-[Due_Date]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Added Custom",{{"Days", type number}}),
+    #"Duplicated Column" = Table.DuplicateColumn(#"Changed Type", "Days", "Days - Copy"),
+    #"Renamed Columns" = Table.RenameColumns(#"Duplicated Column",{{"Days - Copy", "No. Of Days"}}),
+    #"Added Custom1" = Table.AddColumn(#"Renamed Columns", "Days.1", each if [No. Of Days] < 0 then "NotDue" else if [No. Of Days] > 0 then "0-90Days" else if [No. Of Days] <= 90 then "0-90Days" else if [No. Of Days] >= 91 then "91-120Days" else if [No. Of Days] <= 120 then "91-120Days" else if [No. Of Days] >= 121 then "121-150Days" else if [No. Of Days] <= 150 then "121-150Days" else if [No. Of Days] >= 151 then "151-180Days" else if [No. Of Days] <= 180 then "151-180Days" else if [No. Of Days] > 180 then ">181Days" else "Due"),
+    #"Renamed Columns1" = Table.RenameColumns(#"Added Custom1",{{"Days.1", "Aged Days"}}),
+    #"Sorted Rows" = Table.Sort(#"Renamed Columns1",{{"Customer_No", Order.Ascending}}),
+    #"Added Custom2" = Table.AddColumn(#"Sorted Rows", "Toadys", each DateTime.Date(DateTime.LocalNow())),
+    #"Added Custom3" = Table.AddColumn(#"Added Custom2", "AgedDays", each [Toadys]-[Due_Date]),
+    #"Changed Type1" = Table.TransformColumnTypes(#"Added Custom3",{{"AgedDays", Int64.Type}}),
+    #"Merged Queries" = Table.NestedJoin(#"Changed Type1", {"Entry_No"}, DCLE, {"Cust_Ledger_Entry_No"}, "DCLE", JoinKind.LeftOuter),
+    #"Expanded DCLE" = Table.ExpandTableColumn(#"Merged Queries", "DCLE", {"Entry_No", "Amount_LCY", "Cust_Ledger_Entry_No"}, {"DCLE.Entry_No", "DCLE.Amount_LCY", "DCLE.Cust_Ledger_Entry_No"}),
+    #"Added Conditional Column" = Table.AddColumn(#"Expanded DCLE", "DueDays", each if [AgedDays] < 0 then "Not Due" 
+else if [AgedDays] >= 0 and [AgedDays] <= 07 then "0 To 07 Days Amount(LCY)" 
+else if [AgedDays] >= 08 and [AgedDays] <= 30 then "08 T0 30 Days Amount(LCY)" 
+else if [AgedDays] >= 31 and [AgedDays] <= 60 then "31 T0 60 Days Amount(LCY)" 
+else if [AgedDays] >= 61 and [AgedDays] <= 90 then "61 T0 90 Days Amount(LCY)" 
+else if [AgedDays] >= 91 and [AgedDays] <= 120 then "91 T0 120 Days Amount(LCY)"
+else if [AgedDays] >= 121 and [AgedDays] <= 150 then "121 T0 150 Days Amount(LCY)"
+else if [AgedDays] >= 151 and [AgedDays] <= 180 then "151 T0 180 Days Amount(LCY)"
+else if [AgedDays] > 180 then ">180 Days Amount(LCY)" else null),
+    #"Sorted Rows1" = Table.Sort(#"Added Conditional Column",{{"DueDays", Order.Ascending}}),
+    #"Added Conditional Column1" = Table.AddColumn(#"Sorted Rows1", "IndexingValue", each if [DueDays] = "Not Due" then 0 else if [DueDays] = "0 To 07 Days Amount(LCY)" then 1 else if [DueDays] = "08 T0 30 Days Amount(LCY)" then 2 else if [DueDays] = "31 T0 60 Days Amount(LCY)" then 3 else if [DueDays] = "61 T0 90 Days Amount(LCY)" then 4 else if [DueDays] = "91 T0 120 Days Amount(LCY)" then 5 else if [DueDays] = "121 T0 150 Days Amount(LCY)" then 6 else if [DueDays] = "151 T0 180 Days Amount(LCY)" then 7 else 8),
+    #"Changed Type2" = Table.TransformColumnTypes(#"Added Conditional Column1",{{"IndexingValue", Int64.Type}}),
+    #"Sorted Rows2" = Table.Sort(#"Changed Type2",{{"IndexingValue", Order.Ascending}})
+in
+    #"Sorted Rows2";
+
+shared Todays = let
+    Source = DateTime.Date(DateTime.LocalNow())
+in
+    Source;
+
+shared DCLE = let
+    Source = Dynamics365BusinessCentral.ApiContentsWithOptions(null, null, null, null),
+    PRODUCTION = Source{[Name="PRODUCTION"]}[Data],
+    #"My Company" = PRODUCTION{[Name="My Company"]}[Data],
+    WebServices = #"My Company"{[Name="WebServices"]}[Data],
+    DCLE_table = WebServices{[Name="DCLE",Signature="table"]}[Data]
+in
+    DCLE_table;
+
+Version: 2.103.881.0 64-bit (March, 2022)
+
+
+WSIL55985|WSIL67043|WSIL61089|WSIL61289|WSIL60009|WSIL64358|WSIL62368|WSIL63228|WSIL63227|WSIL63394|WSIL48330|WSIL63229|WSIL63581|WSIL65013
+
+
+Travel Card (50033, Document)
+
+Travel Subform (50034, ListPart)
+
+
+Transfer Order 2016 (50045, Report Request)
+
+BOTSR01222300035

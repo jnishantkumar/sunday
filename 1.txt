@@ -1,0 +1,24 @@
+RSC-00024
+TNRGD06
+
+def greater(a,b,c):
+	if (a>b and a>c):
+	return a
+	elif (b>a and b>c):
+	return b
+	elif(c>a and c>b):
+	return c
+
+
+counts=int(input("Enter how many numbers you want"))
+l=[]
+for i in range(counts):
+	n=int(input(enter the value))
+	l.append(n)
+for j in l:
+	if(j==max(l)):
+	print("the greatest value is",j)
+	
+
+
+https://www.onworks.net/programs/terminal-online
